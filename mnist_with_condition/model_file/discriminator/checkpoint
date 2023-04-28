@@ -1,0 +1,2 @@
+model_checkpoint_path: "discriminator_model.weight"
+all_model_checkpoint_paths: "discriminator_model.weight"
